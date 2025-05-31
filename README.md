@@ -27,7 +27,7 @@ I'm a passionate Computer Science graduate from The George Washington University
 ### 📝 [WriteUp](https://github.com/NithinRaghava0510/writeup)  
 A modular blogging platform enabling users to write, edit, and manage blog posts. Developed using Node.js, Express.js, EJS, and MongoDB with an MVC architecture and real-time updates.
 
-### 🎒 [Lost/Found Portal](https://github.com/NithinRaghava0510/lost-found)  
+### 🎒 [Lost/Found Portal](https://github.com/NithinRaghava0510/lost-found-app)  
 A secure React-based platform to report and find lost items in an institute. Features include real-time updates, email alerts, and PostgreSQL-backed tracking built with Node.js and Express.
 
 ### ✅ [Task Tracker](https://github.com/NithinRaghava0510/TaskTrackr)  
